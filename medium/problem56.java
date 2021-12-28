@@ -2,7 +2,6 @@ package medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 /*
  * Given an array of intervals where intervals[i] = [starti, endi], 
